@@ -1,5 +1,5 @@
 {
-  "name": "iterable-route-parameters",
+  "name": "processed-route-parameters",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harrydshapiro/iterable-route-parameters.git"
+    "url": "git+https://github.com/harrydshapiro/processed-route-parameters.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/harrydshapiro/iterable-route-parameters/issues"
+    "url": "https://github.com/harrydshapiro/processed-route-parameters/issues"
   },
-  "homepage": "https://github.com/harrydshapiro/iterable-route-parameters#readme",
+  "homepage": "https://github.com/harrydshapiro/processed-route-parameters#readme",
   "devDependencies": {
     "@types/express": "^4.17.13",
     "@types/node": "^16.6.0",
