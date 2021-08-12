@@ -1,0 +1,29 @@
+{
+  "name": "iterable-route-parameters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrydshapiro/iterable-route-parameters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrydshapiro/iterable-route-parameters/issues"
+  },
+  "homepage": "https://github.com/harrydshapiro/iterable-route-parameters#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^16.6.0",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
